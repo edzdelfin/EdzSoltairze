@@ -1,0 +1,1 @@
+var json_Geotag_4 = {"type":"FeatureCollection","name":"Geotag_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Geotag_Boardwalk","Destinatio":"C:\\Users\\edinl\\Downloads\\Tudela.jpg"},"geometry":{"type":"Point","coordinates":[123.669143029575153,8.272452041208382]}}]}
